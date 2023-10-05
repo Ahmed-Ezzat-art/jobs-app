@@ -4,7 +4,7 @@ export default withMT({
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   theme: {
     colors: {
-      mainColor: '#f09',
+      mainColor: '#1877F2',
     },
 
     fontFamily: {

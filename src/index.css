@@ -2,7 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer {
+  .error {
+    @apply text-[#F44336];
+  }
 
+  .btn{
+    @apply bg-mainColor text-white
+  }
+}
 
 @layer base {
   h1 {
